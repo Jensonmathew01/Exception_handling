@@ -1,3 +1,5 @@
+Program to connect java and mysql using jdbc.
+*********************************************    
 package ustbatchno3.Exception_handling;
 
 import java.sql.Connection;
